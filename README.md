@@ -1,16 +1,12 @@
-# government_service_app
+<h1 align="center">👉 Government Services App 👈</h1>
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h3 align="center"> Chat App Video </h3>
+<div align="center">
+ <video src="https://github.com/user-attachments/assets/112daa37-b611-445a-a059-6c1824187194">
+</video>
+</div>
+<h3 align="center">👉 Government Services App Images👈</h3>
+<div align="center">
+  <img height="550"  src="https://github.com/user-attachments/assets/e6f4bba3-e6e2-4804-8267-26c1fe273cb0" />
+  <img height="550"  src="https://github.com/user-attachments/assets/a01c5186-ea45-4a0e-bdf8-3337d9eebf1f" />
+</div>
